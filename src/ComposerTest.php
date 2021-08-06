@@ -6,7 +6,7 @@ class ComposerTest
 {
     public static function debug($val)
     {
-        echo "再次更新之后";
+        echo "update again...".PHP_EOL;
         var_dump($val);
         die;
     }
