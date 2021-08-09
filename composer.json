@@ -14,5 +14,7 @@
             "email": "php_wujiajie@163.com"
         }
     ],
-    "require": {}
+    "require": {
+        "scolib/bankcard": "^1.0"
+    }
 }
